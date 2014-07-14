@@ -1,0 +1,25 @@
+{
+  "name": "TestGulp",
+  "version": "0.1.0",
+  "description": "test how to use gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zyxxt/TestGulp.git"
+  },
+  "keywords": [
+    "testGulp"
+  ],
+  "author": "zyxxt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyxxt/TestGulp/issues"
+  },
+  "homepage": "https://github.com/zyxxt/TestGulp",
+  "devDependencies": {
+      "gulp": "*"
+  }
+}
