@@ -1,25 +1,16 @@
 {
   "name": "TestGulp",
-  "version": "0.1.0",
-  "description": "test how to use gulp",
+  "version": "0.0.0",
+  "description": "how to use glup",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/zyxxt/TestGulp.git"
-  },
-  "keywords": [
-    "testGulp"
-  ],
-  "author": "zyxxt",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zyxxt/TestGulp/issues"
-  },
-  "homepage": "https://github.com/zyxxt/TestGulp",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-      "gulp": "*"
-  }
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.10.0"
+  },
+  "jshintConfig": {}
 }
